@@ -10,14 +10,14 @@
   --
   -->
 
-<h1 align="center">Hi 👋, I'm PHILIP NGUNGI</h1>
+<h1 align="center">Hi 👋, I'm Philip Ngungi</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A junior developer, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philip" alt="philip" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;">
@@ -47,7 +47,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm a software developr; **Html, javascript, React js, Ruby on rails.**
 
 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 

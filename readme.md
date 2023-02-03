@@ -55,7 +55,7 @@
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **I also a pro deejay**
 
 ### My work
 
